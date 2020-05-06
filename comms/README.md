@@ -45,6 +45,18 @@ These are available [here](https://github.com/nettitude/PoshC2/blob/master/resou
 
 The 404 response is returned to GET requests when C2 data is not being returned (such as a new task).
 
+```
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache (Debian) Server</address>
+</body></html>
+```
+
 The default response is available [here](https://github.com/nettitude/PoshC2/master/resources/responses/404_response.html).
 
 A random 200 response is chosen and return in the response to POST requests when C2 data is not being returned.
