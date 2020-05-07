@@ -62,7 +62,7 @@ rule PoshC2 {
       (
          (1 of ($x*) and 2 of them) or
          (pe.exports("VoidFunc") and 2 of them) or 
-         4 of them
+         6 of them
       )
 
 }
