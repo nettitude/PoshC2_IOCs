@@ -2,7 +2,7 @@
 
 A list of IOCs applicable to PoshC2.
 
-This is a counterpart to the 'Detecting PoshC2' blog post we released, available here TODO WHEN BLOG GOES LIVE:
+This is a counterpart to the 'Detecting PoshC2' blog post we released, available [here](https://labs.nettitude.com/blog/detecting-poshc2-indicators-of-compromise/):
 
 This repository will be updated as development on PoshC2 continues but community contributions to this repository are encouraged.
 
