@@ -81,3 +81,15 @@ Cert_NotAfter = (10 * 365 * 24 * 60 * 60)
 
 These are available [here](https://github.com/nettitude/PoshC2/blob/master/poshc2/server/Config.py#L89).
 
+
+### Named Pipe Comms (PBind Implants)
+
+The default values for the named pipe and secret used for PBind communications are in the [configuration file](https://github.com/nettitude/PoshC2/blob/master/resources/config-template.yml#L40)
+
+```
+# PBind Options
+PBindPipeName: "jaccdpqnvbrrxlaf"
+PBindSecret: "mtkn4"
+```
+
+
